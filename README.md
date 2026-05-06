@@ -1,78 +1,141 @@
-<div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
-</div>
+<h1 align="center">👋 Hello, I'm Shakir Barkati</h1>
 
-###
+<h3 align="center">
+Full-Stack Developer • React Developer • Creative Problem Solver
+</h3>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/shakir-barkati-27331427b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100077746640528" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-</div>
+<p align="center">
+Karachi-based developer passionate about building modern web applications,
+AI-powered solutions, and responsive user experiences.
+</p>
 
-###
+<hr>
 
-<h1 align="center">Thanks for visiting my GitHub</h1>
+<h2>🚀 About Me</h2>
 
-###
+<p>
+I’m a Karachi-based <strong>Full-Stack Developer</strong>, 
+<strong>Frontend Developer</strong>, and <strong>React Developer</strong> 
+with a strong passion for building modern web applications, scalable digital solutions, 
+and user-focused interfaces.
+</p>
 
-<h3 align="left">👋 About Me</h3>
+<p>
+Currently, I’m continuing my technical education through 
+<strong>Saylani Mass IT Training (SMIT)</strong> and 
+<strong>Cisco online programs</strong> while actively working on real-world projects 
+and improving my software engineering skills.
+</p>
 
-###
+<p>
+I enjoy transforming ideas into functional and visually engaging applications using modern technologies like 
+<strong>React</strong>, <strong>Next.js</strong>, <strong>Node.js</strong>, 
+<strong>Express.js</strong>, <strong>PHP</strong>, and <strong>MongoDB</strong>.
+</p>
 
-<p align="left">I’m a Web Designer & Developer specializing in modern, responsive, and clean UI websites.  <br>💻 Focused on WordPress, custom code, and scalable web applications.  <br>🚀 I build fast, SEO-friendly solutions designed for real business growth.</p>
+<p>
+Beyond traditional web development, I’m also interested in 
+<strong>AI tools</strong> and <strong>chatbot systems</strong>, 
+exploring technologies that create smarter and more interactive digital experiences.
+</p>
 
-###
+<hr>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2>🛠️ Technical Skills</h2>
 
-###
+<h3>🎨 Frontend & UI Development</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
-</div>
+<p>
+HTML5 • CSS3 • JavaScript • Tailwind CSS • Flowbite • Flowrift • Tailblocks • Bootstrap • React.js • Next.js • ShadCN UI • TanStack
+</p>
 
-###
+<h3>⚙️ Backend & Databases</h3>
+
+<p>
+Node.js • Express.js • PHP • MySQL • MongoDB • Firebase
+</p>
+
+<h3>🛒 CMS & eCommerce</h3>
+
+<p>
+WordPress • WooCommerce
+</p>
+
+<h3>🧰 Tools & Platforms</h3>
+
+<p>
+VS Code • npm • Figma • Canva • Docker • AWS • REST APIs
+</p>
+
+<h3>🤖 AI & Chatbot Technologies</h3>
+
+<p>
+Dialogflow • AI Tools & Integrations
+</p>
+
+<hr>
+
+<h2>🎓 Education & Training</h2>
+
+<h3>📘 Saylani Mass IT Training (SMIT)</h3>
+
+<p>
+Focused on practical software development, web technologies, and modern development workflows.
+</p>
+
+<h3>🌐 Cisco Online Programs</h3>
+
+<p>
+Continuing technical learning through online networking and technology courses.
+</p>
+
+<hr>
+
+<h2>💼 Professional Experience</h2>
+
+<h3>🏢 CreativeBird — WordPress Developer & Designer</h3>
+
+<p>
+<strong>Internship (6 Months)</strong><br>
+Worked on WordPress-based business websites, responsive UI design, customization, and client-focused solutions.
+</p>
+
+<h3>🏢 CreativeBird — WordPress Developer & Designer</h3>
+
+<p>
+<strong>Job Experience (6 Months)</strong><br>
+Handled real-world development tasks, website maintenance, UI improvements, and WordPress/WooCommerce projects.
+</p>
+
+<h3>📈 Overall Experience</h3>
+
+<ul>
+  <li>Approximately 1.5 years of practical development experience.</li>
+</ul>
+
+<hr>
+
+<h2>🧠 Personal Approach</h2>
+
+<p>
+I consider myself a creative developer and problem solver who enjoys learning new technologies, experimenting with modern tools, and building impactful digital experiences.
+</p>
+
+<p>
+I work professionally while maintaining a collaborative and adaptable mindset, always aiming to improve both technically and creatively.
+</p>
+
+<p>
+Feel free to explore my projects, repositories, and connect with me for collaboration opportunities or exciting development ideas.
+</p>
+
+<hr>
+
+<h2>🌐 Fiverr</h2>
+
+<p>
+<a href="https://www.fiverr.com/s/8zL8kwo" target="_blank">
+Visit My Fiverr Profile
+</a>
+</p>
+```
